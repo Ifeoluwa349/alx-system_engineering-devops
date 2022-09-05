@@ -1,1 +1,1 @@
-readme.md Writing shell directions commands and making them executable files
+Writing shell directions commands and making them executable files
