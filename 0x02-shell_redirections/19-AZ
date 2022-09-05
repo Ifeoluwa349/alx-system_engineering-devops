@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tr "A" "Z" | tr "c" "e"
+=======
+tr [A:c] [Z:e]
+>>>>>>> feee750f74f7ed622dd93c5759e7c852dd0c4b07
